@@ -5,5 +5,5 @@ API Request: Make an API request to retrieve weather data based on the user's in
 
 Software Used - Python 3.11, Visual Studio Code
 Library Used - tkinter 8.6.12, requests 2.32.3, PIL (pillow module)
-API Key - https://api.openweathermap.org/data/2.5/weather?q={city name}&appid=c8467c25bd6e83878917c38f089573a9
+API Key - https://api.openweathermap.org/data/2.5/weather?q= {city name}&appid=c8467c25bd6e83878917c38f089573a9
 API source - https://api.openweathermap.org
