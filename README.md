@@ -4,6 +4,7 @@ User Input: Prompt the user to enter the name of a city or a zip code.
 API Request: Make an API request to retrieve weather data based on the user's input.
 
 Software Used - Python 3.11, Visual Studio Code
+
 Library Used - tkinter 8.6.12, requests 2.32.3, PIL (pillow module)
 
 API Key - https://api.openweathermap.org/data/2.5/weather?q= {city name}&appid=c8467c25bd6e83878917c38f089573a9
